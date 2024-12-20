@@ -1,3 +1,3 @@
-# GrandBiomesMod
+# Terns
 
 MC
